@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(36, 47, 196);
+}
+
+.primeiraparte{
+    background-color: blueviolet;
+}
+
+.foto{
+    width: 900px;
+}
+
+.todososestudantes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
